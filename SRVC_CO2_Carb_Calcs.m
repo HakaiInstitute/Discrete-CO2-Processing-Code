@@ -1,4 +1,4 @@
-%% Hakai Institute's Carbonate Calculation Code for discrete CO2 data
+%% Hakai Institute's Carbonate Calculation Code for Discrete CO2 Data
 % Created: September 1st, 2021; By: Carrie Weekes
 %-- Updated August 2nd, 2023
 
