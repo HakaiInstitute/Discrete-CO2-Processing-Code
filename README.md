@@ -3,7 +3,7 @@
 Matlab scripts for post-processing of discrete CO2 data.
 The first Matlab script 'SRVC_CO2_Carb_Calcs' calculates the carbonate parameters from analyzed discrete CO2 samples. The code outputs: corrected alakalinity, in-situ pCO2, pH, aragonite and calcite saturation states, and pCO2 calculated at a common temp of 20ºC.
 
-For access to the different templates used by Hakai Institute follow this link to a Google Drive folder: https://drive.google.com/drive/folders/1tSFnaKKNypKSOaSG1WBZET93UcLOBrWh?usp=drive_link
+For access to the different templates used by Hakai Institute follow this link to a Google Drive folder: https://drive.google.com/file/d/1cUh5CcJgtYXKy2bxg6QkVtkp3_JzP6B1/view?usp=sharing
 
 Use the Lab Primary and Lab Std Prep templates to track the preparation of primary solutions and TCO2 liquid standards that are used for calibration curves during discrete sample analysis.
 
