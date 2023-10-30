@@ -11,11 +11,11 @@ The DI Blank Runs template is filled out after TCO2 liquid standards have been m
 
 The SRVC CO2 IRM/CRM check template is used to assess the pre-run calibration curves and correction factors before sample analysis begins.
 
-The YSI Calibration Log template is used for any instrument drift during sample analysis from pre- to post-run.
+The YSI Calibration Log template is used for tracking any YSI instrument drift during sample analysis from pre- to post-run.
 
-The template metadata mastersheet is filled out during sample analysis and contains all information collected from the field and from the SRVC CO2 ver2.0 spreadsheet.
+The template metadata mastersheet is filled out during sample analysis and contains all information collected from the field, during the analysis and from the completed SRVC CO2 ver2.0 spreadsheet.
 
-The SRVC CO2 ver2.0 template is filled out during or after the samples have been analyzed. The spreadsheet contains specific calculations for the TCO2 and pCO2 calculations. The user will paste pre-run, mid-run and post-run standards and all samples analyzed into the spreadsheet to obtain preliminary CO2 data.
+The SRVC CO2 ver2.0 spreadsheet is filled out during or after the samples have been analyzed. The spreadsheet contains specific calculations for TCO2 and pCO2 analyzed during the processing day. The user will paste pre-run, mid-run and post-run standards and all samples analyzed into the spreadsheet to obtain preliminary CO2 data.
 
 Following the completion of the SRVC CO2 spreadsheet, use the SRVC CO2 Carb Calcs excel sheet and matlab script to calculate in-situ values and carbonate calculations. Once these data have been calculated, finish finalizing the SRVC CO2 spreadsheet and the metadata mastersheet.
 
